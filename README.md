@@ -1,11 +1,5 @@
 # SOTCryptoAutoTradeBot
 
-![report_Week_16_2025 (6)](https://github.com/user-attachments/assets/5aec61c0-f797-41ff-8f8a-a861e0989c62)
-![report_Week_17_2025 (3)](https://github.com/user-attachments/assets/5eb143a6-fb39-4b06-95a8-92a827d22189)
-![report_Week_15_2025 (7)](https://github.com/user-attachments/assets/6b9dd9e3-c634-474f-9e07-2ea5daaa2412)
-![report_Week_13_2025 (8)](https://github.com/user-attachments/assets/e1550554-e471-48ae-8c7d-50984e4243d4)
-
-
 🚀 **Hello everyone,**
 
 Welcome to this channel where we share **free trading signals** for **futures trading on Binance**.  [Channel](https://t.me/sotcforme)
@@ -57,3 +51,8 @@ The Auto Trade Bot automates:
 ---
 
 **💬 If you have any questions about the Bot, feel free to DM me**: [SOT](https://t.me/sotnecacfen)
+
+![report_Week_16_2025](https://github.com/user-attachments/assets/5aec61c0-f797-41ff-8f8a-a861e0989c62)
+![report_Week_17_2025](https://github.com/user-attachments/assets/5eb143a6-fb39-4b06-95a8-92a827d22189)
+![report_Week_15_2025](https://github.com/user-attachments/assets/6b9dd9e3-c634-474f-9e07-2ea5daaa2412)
+![report_Week_13_2025](https://github.com/user-attachments/assets/e1550554-e471-48ae-8c7d-50984e4243d4)
