@@ -49,4 +49,4 @@ The Auto Trade Bot automates:
 
 ---
 
-**💬 If you have any questions about the Bot, feel free to DM me**: @sotnecacfen
+**💬 If you have any questions about the Bot, feel free to DM me**: [SOT](https://t.me/sotnecacfen)
